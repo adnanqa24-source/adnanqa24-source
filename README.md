@@ -9,7 +9,7 @@
 
 <br>
 
-**Test Automation Architect** specializing in **Playwright (TypeScript)**, autonomous AI test generation pipelines, continuous regression telemetry, and enterprise quality governance.
+**Test Automation Architect** specializing in **Playwright (TypeScript)**, autonomous CLI test generation pipelines, continuous regression telemetry, and enterprise quality governance.
 
 </div>
 
@@ -17,12 +17,12 @@
 
 ### Core Systems & Architecture
 
-#### 1. Autonomous AI-Assisted QA Pipeline `Jam CLI + Playwright CLI`
+#### 1. Autonomous AI-Powered QA Pipeline `Jam CLI + Playwright CLI`
 
 > [!TIP]
-> **Key Architecture Milestone:** Eliminates multimodal video token burn by processing lightweight deterministic intent trees directly into strongly-typed Playwright test suites.
+> **Key Architecture Milestone:** Eliminates multimodal video token burn by processing lightweight deterministic intent trees directly into strongly-typed Playwright test suites via headless CLI execution.
 
-* **Intent Telemetry Ingestion:** Engineered a headless pipeline via **Jam CLI** that captures user actions and network events into structured intent trees (**<1.8k tokens per flow**), completely replacing multimodal video frames.
+* **Intent Telemetry Ingestion:** Engineered a headless ingestion pipeline via **Jam CLI** that captures user actions and network events into structured intent trees (**<1.8k tokens per flow**), completely replacing multimodal video frames.
 * **Local DOM Resolution:** Queries live browser states locally via `playwright-cli eval`, dynamically synthesizing **resilient multi-condition XPath unions** without calling external LLMs for element location.
 * **Autonomous Selector Self-Healing:** The healing agent attaches directly to failing executions (`playwright-cli attach`) during UI shifts, recalculating drifted selectors and updating test scripts **without manual intervention**.
 
@@ -76,16 +76,16 @@
       <td><b>Playwright</b>, <b>TypeScript</b>, <b>Postman</b> (API), <b>Axe-core</b>, <b>Selenium</b></td>
     </tr>
     <tr>
+      <td><b>AI Tooling & Protocols</b></td>
+      <td><b>Jam CLI</b>, <b>Playwright CLI</b>, <b>Model Context Protocol (MCP)</b>, <b>Multi-Condition XPath Union Synthesis</b></td>
+    </tr>
+    <tr>
       <td><b>Visual Regression</b></td>
       <td><b>Pixelmatch</b>, <b>Percy</b>, <b>Applitools Eyes</b></td>
     </tr>
     <tr>
       <td><b>DevOps & CI/CD</b></td>
       <td><b>Jenkins</b> (Declarative), <b>Linux</b>, <b>SSH</b>, <b>Git</b>, <b>GitHub Actions</b></td>
-    </tr>
-    <tr>
-      <td><b>AI & CLI Systems</b></td>
-      <td><b>Jam CLI</b>, <b>Playwright CLI</b>, <b>Multi-Condition XPath Union Synthesis</b></td>
     </tr>
     <tr>
       <td><b>Standards & Compliance</b></td>
