@@ -17,7 +17,7 @@
 
 ### Core Systems & Architecture
 
-#### 1. Autonomous AI-Powered QA Pipeline `Jam CLI + Playwright CLI`
+#### 1. Autonomous AI-Assisted QA Pipeline `Jam CLI + Playwright CLI`
 
 > [!TIP]
 > **Key Architecture Milestone:** Eliminates multimodal video token burn by processing lightweight deterministic intent trees directly into strongly-typed Playwright test suites via headless CLI execution.
