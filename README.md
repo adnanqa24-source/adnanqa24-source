@@ -9,7 +9,7 @@
 
 <br>
 
-**Test Automation Architect** specializing in **Playwright (TypeScript)**, autonomous CLI test generation pipelines, continuous regression telemetry, and enterprise quality governance.
+**Test Automation Architect** specializing in **Playwright (TypeScript)**, autonomous CLI test generation pipelines, declarative Jenkins CI/CD infrastructure, continuous regression telemetry, and applied machine learning validation.
 
 </div>
 
@@ -37,18 +37,31 @@
 #### 2. Scalable Playwright Automation Suite & CI/CD Telemetry
 
 > [!NOTE]
-> **Core Framework Principle:** Environment-agnostic execution paired with state-persistence strategies to achieve continuous regression stability.
+> **Core Framework Principle:** Environment-agnostic execution paired with declarative Groovy pipelines and automated build lifecycle governance.
 
 * **Session Storage Caching:** Implemented native `storageState` caching across multi-tier test flows to retain browser authentication tokens, **eliminating redundant login cycles** and accelerating execution runs.
-* **Environment Parity:** Parameterized runtime configuration for seamless execution across **Dev, Staging, and Production** tiers with **zero code modifications**.
-* **Continuous Integration Orchestration:** Configured Jenkins declarative pipelines with cron schedules: **smoke tests during peak hours** and **full regression suites off-peak**.
+* **Environment Parity & Runtime Injection:** Architected an environment-agnostic framework injecting dynamic runtime variables across **Dev, Staging, and Production** tiers with **zero code modifications**.
+* **Declarative CI/CD Pipelines:** Authored Jenkins declarative pipelines using **Groovy scripting** with parameterized cron triggers: automated smoke runs during peak hours and full regression sweeps off-peak.
+* **Build Governance & Storage Optimization:** Implemented automated log rotation and build cleanup policies (**7-day retention / 7th-build purge**) on the remote Linux host.
 * **Visual Regression & Defect Telemetry:** Integrated deep visual validation using **Pixelmatch, Percy, and Applitools Eyes** to capture sub-pixel layout anomalies, with automated **Allure reporting** for rapid failure analysis.
 
 | Capability | Reliability Index | Implementation Standard |
 | :--- | :---: | :--- |
-| **Configuration Drift** | **`0% Drift`** | 100% parameter reuse across deployment stages |
+| **Configuration Drift** | **`0% Drift`** | 100% parameter reuse across deployment stages via runtime injection |
 | **Execution Efficiency** | **`High Parity`** | Session-state persistence avoids redundant authentication loops |
 | **Reporting Latency** | **`Real-time`** | Allure test artifacts published directly on test completion |
+
+---
+
+#### 3. Galaxy Morphology ML Classification Pipeline
+
+> [!NOTE]
+> **Scientific Research & Computer Vision:** Capstone thesis computational implementation evaluating supervised learning algorithms for structural image classification.
+
+* **Data Preprocessing & Ingestion:** Built a modular Python data pipeline using **NumPy, Pandas, and Keras** to load, reshape, and normalize pixel intensities (0–255 down to 0–1) across MNIST-formatted astronomical image arrays.
+* **Support Vector Classification (SVC):** Trained and optimized a multi-class **Support Vector Classifier** via **Scikit-learn**, tuning hyperplanes and decision boundaries to classify morphological features across spiral, elliptical, and irregular galaxies.
+* **Visual Diagnostics:** Utilized **Matplotlib** to render pixel intensity histograms, morphology sample grids across classes, and graphical confusion matrix heatmaps.
+* **Evaluation Telemetry:** Benchmarked classification convergence against unseen validation sets, quantifying predictive reliability through **precision, recall, and weighted F1-score telemetry**.
 
 ---
 
@@ -76,16 +89,20 @@
       <td><b>Playwright</b>, <b>TypeScript</b>, <b>Postman</b> (API), <b>Axe-core</b>, <b>Selenium</b></td>
     </tr>
     <tr>
-      <td><b>AI Tooling & Protocols</b></td>
-      <td><b>Jam CLI</b>, <b>Playwright CLI</b>, <b>Model Context Protocol (MCP)</b>, <b>Multi-Condition XPath Union Synthesis</b></td>
-    </tr>
-    <tr>
       <td><b>Visual Regression</b></td>
       <td><b>Pixelmatch</b>, <b>Percy</b>, <b>Applitools Eyes</b></td>
     </tr>
     <tr>
       <td><b>DevOps & CI/CD</b></td>
-      <td><b>Jenkins</b> (Declarative), <b>Linux</b>, <b>SSH</b>, <b>Git</b>, <b>GitHub Actions</b></td>
+      <td><b>Jenkins</b> (Declarative Groovy), <b>Linux Server Administration</b>, <b>SSH</b>, <b>Git</b>, <b>GitHub Actions</b></td>
+    </tr>
+    <tr>
+      <td><b>Data Science & ML</b></td>
+      <td><b>Python</b>, <b>Scikit-learn (SVC)</b>, <b>Matplotlib</b>, <b>Keras</b>, <b>NumPy</b>, <b>Pandas</b></td>
+    </tr>
+    <tr>
+      <td><b>AI Tooling & Protocols</b></td>
+      <td><b>Jam CLI</b>, <b>Playwright CLI</b>, <b>Model Context Protocol (MCP)</b>, <b>Multi-Condition XPath Union Synthesis</b></td>
     </tr>
     <tr>
       <td><b>Standards & Compliance</b></td>
